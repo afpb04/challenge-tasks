@@ -1,0 +1,16 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.6"
+  }
+}
